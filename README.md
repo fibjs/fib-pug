@@ -1,6 +1,6 @@
 # fib-pug
 
-[![Build Status](https://travis-ci.org/richardo2016/fib-pug.svg?branch=master)](https://travis-ci.org/richardo2016/fib-pug)
+[![Build Status](https://travis-ci.org/fibjs/fib-pug.svg?branch=master)](https://travis-ci.org/fibjs/fib-pug)
 [![NPM version](https://img.shields.io/npm/v/fib-pug.svg)](https://www.npmjs.org/package/fib-pug)
 
 

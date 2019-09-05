@@ -24,22 +24,21 @@
   },
   "homepage": "https://github.com/fibjs/fib-pug#readme",
   "ci": {
-    "type": "travis",
+    "type": "travis, appveyor",
     "version": [
-      "0.21.0",
-      "0.22.0",
-      "0.23.0",
       "0.24.0",
       "0.25.0",
       "0.26.0",
-      "0.26.1"
+      "0.26.1",
+      "0.27.0",
+      "0.28.0"
     ]
   },
   "dependencies": {
     "pug": "^2.0.3"
   },
   "devDependencies": {
-    "@fibjs/ci": "^2.1.0",
+    "@fibjs/ci": "^2.3.0",
     "jstransformer-stylus": "^1.5.0",
     "jstransformer-typescript": "^1.1.0"
   }

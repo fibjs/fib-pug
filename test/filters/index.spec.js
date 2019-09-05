@@ -64,7 +64,7 @@ console.log('typescript', window);
     fs.writeTextFile(path.join(__dirname, `./${testFileName}.html`), html)
   })
 
-  it('[jstransformer:stylus]', () => {
+  xit('[jstransformer:stylus]', () => {
     const options = {
       filters: {
         stylus: jstStylus.render
